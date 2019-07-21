@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UnipiTouristApp</string>
+    <string name="m_statistics">Statistics</string>
+    <string name="m_nearpoistoday">Near Pois Today : %1$d </string>
+    <string name="m_liked">You liked : %1$s pois </string>
+    <string name="m_viewed">You viewd : %1$s pois </string>
+    <string name="main_textbar">Choose distance</string>
+    <string name="main_textselected">Selected: %1$d m</string>
+    <string name="main_showpoi">Show Poi</string>
+    <string name="main_texttitle">No Near POI</string>
+    <string name="main_distance">Distance : %1$d</string>
+    <string name="p_stitle">Details:</string>
+    <string name="p_category">Category: %1$s</string>
+    <string name="p_like">LIKE</string>
+    <string name="p_likelabel">Liked this place: %1$d</string>
+    <string name="p_viewlabel">Viewed this page: %1$d</string>
+
+
+</resources>

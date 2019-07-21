@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_textbar">Επιλεξτε αποσταση</string>
+    <string name="m_statistics">Στατιστικα</string>
+    <string name="m_nearpoistoday">Σημερινα POIS : %1$d </string>
+    <string name="m_liked">Σου αρεσαν: %1$s pois </string>
+    <string name="m_viewed">Εχεις δει : %1$s pois </string>
+    <string name="main_textselected">Επιλεγμενο: %1$d m</string>
+    <string name="main_showpoi">Εμφανιση POI</string>
+    <string name="main_texttitle">Κανενα κοντινο POI</string>
+    <string name="main_distance">Αποσταση : %1$d</string>
+    <string name="p_stitle">Πληροφοριες :</string>
+    <string name="p_category">Κατηγορια: %1$s</string>
+    <string name="p_like">ΜΟΥ ΑΡΕΣΕΙ</string>
+    <string name="p_likelabel">Αρεσε σε: %1$d</string>
+    <string name="p_viewlabel">Ειδαν την σελιδα: %1$d</string>
+</resources>
