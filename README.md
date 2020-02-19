@@ -27,7 +27,7 @@ User's nearby POIS using the gps module
     (You cannot build the app without the firebase SDK)
  4) Build and run the apk on real device
  
- You can preview the app by downloading an debug apk from here [tourist-app](https://drive.google.com/open?id=17bOKIwkoFyrm7TL4KywD9iVfdw-gxtSBF)
+ You can preview the app by downloading a debug apk from here [tourist-app](https://drive.google.com/open?id=17bOKIwkoFyrm7TL4KywD9iVfdw-gxtSBF)
  
 
 ## Development
