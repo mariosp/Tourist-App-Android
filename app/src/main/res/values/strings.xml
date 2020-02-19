@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">UnipiTouristApp</string>
+    <string name="app_name">Tourist App</string>
     <string name="m_statistics">Statistics</string>
     <string name="m_nearpoistoday">Near Pois Today : %1$d </string>
     <string name="m_liked">You liked : %1$s pois </string>
